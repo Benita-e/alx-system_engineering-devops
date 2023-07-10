@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | perfect perfect unique -u
+sort | uniq -u
