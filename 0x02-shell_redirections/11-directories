@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type directories -not -name | wc -l
